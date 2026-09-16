@@ -220,4 +220,4 @@ Avast Secure Browser is the full free version, providing all features and update
 Start your journey to safer browsing today! [Download Avast Secure Browser now!](https://www.softyne.com/avast-secure-browser)
 
 ---
-**Last updated:** 2026-09-16 02:18:00 UTC
+**Last updated:** 2026-09-16 08:02:27 UTC
